@@ -5,10 +5,20 @@ This project analyzes marketing funnel data to evaluate user progression from Vi
 
 The objective is to identify conversion drop-offs, assess channel performance, and provide actionable recommendations to improve overall conversion rates and revenue impact.
 
-## 🛠 Tools Used
+---
+
+##  Dashboard Preview
+
+![Marketing Funnel Dashboard](Images/dashboard_preview.png)
+
+---
+
+##  Tools Used
 - Power BI
 - DAX (Data Analysis Expressions)
 - Power Query (Data Cleaning)
+- Microsoft Excel (Data Source)
+
 ---
 
 ##  Funnel Performance Summary
@@ -66,13 +76,7 @@ This analysis demonstrates how structured funnel monitoring and channel performa
 - Drive higher revenue growth
 
 ---
-## Dashboard Preview
 
-![Marketing Funnel Dashboard](Images/dashboard_preview.png)
-
----
-
-
-## 🚀 Conclusion
+##  Conclusion
 
 This project showcases practical marketing analytics using Power BI, focusing on funnel optimization and conversion improvement strategies aligned with real-world business scenarios.
