@@ -7,12 +7,6 @@ The objective is to identify conversion drop-offs, assess channel performance, a
 
 ---
 
-##  Dashboard Preview
-
-![Marketing Funnel Dashboard](Images/dashboard_preview.png)
-
----
-
 ##  Tools Used
 - Power BI
 - DAX (Data Analysis Expressions)
@@ -76,6 +70,9 @@ This analysis demonstrates how structured funnel monitoring and channel performa
 - Drive higher revenue growth
 
 ---
+
+## dashboard preview
+![Dashboard Preview](dashboard_preview.png)
 
 ##  Conclusion
 
